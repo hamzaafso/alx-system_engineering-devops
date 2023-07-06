@@ -1,7 +1,6 @@
-##Description of this repository
+## Description of this repository
 ----
-#This repository contain: 
--Bash scripts
--Shell basics
--The chmod command
--
+# This repository contain: 
+1. **Bash scripts.**
+2. **Shell basics.**
+3. **The chmod command.**
